@@ -7,7 +7,6 @@ describe ('Launch Page', () => {
         await browser.url('https://www.weather.com');
 
         await browser.pause(10000);
-
-
+        
     })
 })
